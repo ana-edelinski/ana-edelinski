@@ -25,5 +25,5 @@
 </p>
 
 ## Projects
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ana-edelinski&repo=booking-app&theme=dark)](https://github.com/ana-edelinski/booking-app)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ana-edelinski&repo=cocoa-connect&theme=dark)](https://github.com/ana-edelinski/cocoa-connect)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ana-edelinski&repo=booking-app&theme=radical)](https://github.com/ana-edelinski/booking-app)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ana-edelinski&repo=cocoa-connect&theme=radical)](https://github.com/ana-edelinski/cocoa-connect)
