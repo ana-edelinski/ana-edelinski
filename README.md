@@ -34,8 +34,3 @@
 <img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/68/Oracle_SQL_Developer_logo.svg/800px-Oracle_SQL_Developer_logo.svg.png" alt="OracleSQLDeveloper" width="30" height="30"/> 
 <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" width="30" height="30"/> 
 </p>
-
-
-## Projects
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ana-edelinski&repo=booking-app&theme=tokyonight)](https://github.com/ana-edelinski/booking-app)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ana-edelinski&repo=cocoa-connect&theme=tokyonight)](https://github.com/ana-edelinski/cocoa-connect)
