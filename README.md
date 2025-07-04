@@ -5,7 +5,7 @@
 -->
 
 📚 Applied Computer Science and Informatics Student @ Faculty of Technical Sciences, University of Novi Sad <br>
-👩‍💻 See my journey on https://www.linkedin.com/in/anaedelinski/ <br>
+👩‍💻 More about me on https://www.linkedin.com/in/anaedelinski/ <br>
 📫 How to reach me anaedelinski@outlook.com <br>
 
 ## Technologies and Tools
@@ -29,7 +29,7 @@
 <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" width="30" height="30"/> 
 <img src="https://skillicons.dev/icons?i=visualstudio" alt="Visual Studio" width="30" height="30"/> 
 <img src="https://skillicons.dev/icons?i=eclipse" alt="Eclipse" width="30" height="30"/> 
-<img src="https://static-00.iconduck.com/assets.00/intellij-idea-icon-2048x2048-hsyna1mi.png" alt="IntelliJ" width="30" height="30"/> 
+<img src="https://img.icons8.com/?size=512&id=61466&format=png" alt="IntelliJ" width="30" height="30"/> 
 <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="30" height="30"/> 
 <img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/68/Oracle_SQL_Developer_logo.svg/800px-Oracle_SQL_Developer_logo.svg.png" alt="OracleSQLDeveloper" width="30" height="30"/> 
 <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" width="30" height="30"/> 
